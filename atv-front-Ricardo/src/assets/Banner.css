@@ -1,0 +1,15 @@
+.banner {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .watched-animes, .to-watch-animes {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  input {
+    margin-right: 10px;
+  }
